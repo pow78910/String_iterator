@@ -1,0 +1,7 @@
+ if (File.Exists(specialCharFile))
+ {
+     specialCharNum = File.ReadAllLines(specialCharFile).Count();
+     specialChars = new string[specialCharNum];
+     specialChars = File.ReadAllLines(specialCharFile);
+     fileError = false;
+ }

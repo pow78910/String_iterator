@@ -1,0 +1,22 @@
+Validation conditions 
+
+1. Original passwords - the example passwords that are in the text file 
+
+2. Suffix OR Prefix 
+	a. Numbers - general OR specific amount of numbers OR number sequences e.g. 123, 999
+	b. Symbols/Special characters e.g. !£$%&*@#~ 
+
+3. Capital letters 
+	a. The beginning of the pass/word
+	b. All characters
+	c. most characters
+	d. no characters
+
+4. Numbers for letters
+	a. 1 for 'i' and 'l'
+	b. 3 for 'e' 
+	c. 4 for 'A' 
+	d. 5 for 's'
+	e. 7 for 't' 
+	f. 8 for 'B'
+	g. 0 for 'o'
